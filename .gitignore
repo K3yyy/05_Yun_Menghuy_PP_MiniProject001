@@ -1,0 +1,13 @@
+# Tailwind output files (if you're using JIT mode)
+*.css.map
+*.css
+
+# Node modules
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Tailwind cache (if using JIT mode)
+.tailwind/
